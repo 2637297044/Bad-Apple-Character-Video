@@ -1,0 +1,22 @@
+这是一组将 Bad Apple 视频转换为字符画视频的程序。
+
+程序文件：
+1.Bad Apple.py
+2.convert.py
+3.main.py
+4.main.vbs
+5.play_bgm.py
+
+附件列表如下：
+1.data/1.flv （ Bad Apple 原视频，来源于在线视频网站哔哩哔哩： https://www.bilibili.com/video/av706）
+2.data/bgm.mp3 （视频音乐）
+
+运行此程序前，请事先安装 Python 3.8 及以上版本的 Python， 并在命令提示符（cmd.exe）运行这些命令：
+pip install numpy
+pip install pygame
+pip install matplotlib
+pip install wheel
+pip install opencv-python
+
+然后你需要按照 https://blog.csdn.net/Mikumiku339/article/details/111872824 的指导安装 Windows 下的相应版本 curses。
+最后，运行 main.vbs ！
