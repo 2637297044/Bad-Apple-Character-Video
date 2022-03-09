@@ -9,7 +9,7 @@ Program Files:
 5.play_bgm.py
 
 Attachments:
-1.data/1.flv (the origin video of Bad Apple，from online video website [BiliBili](https://www.bilibili.com/video/av706))
+1.data/1.flv (the origin video of Bad Apple，from online video website [BiliBili](https://www.bilibili.com/): https://www.bilibili.com/video/av706)
 2.data/bgm.mp3 (the video music of the origin video of Bad Apple)
 
 Before running this program, please install Python version 3.8 and above in advance, and run these commands:
